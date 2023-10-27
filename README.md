@@ -11,7 +11,9 @@ You can follow my profile to be informed about my work, or just browse through m
 ## Platforms Actively Develop
 
 > MTA:SA 1.6 (Multi Theft Auto)
+
 > New Platform Project (Under-co)
+
 > Loading...
 
 ## Software Languages Actively Develop
@@ -19,6 +21,9 @@ You can follow my profile to be informed about my work, or just browse through m
 *Below I have listed the programming languages ​​I am actively working on.*
 
 > Lua with OOP
+
 > MTA:SA Lua with Functions and OOP
+
 > Python (Beginning)
+
 > HTML, CSS
